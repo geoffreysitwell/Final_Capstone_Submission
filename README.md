@@ -55,9 +55,15 @@ geoffreysitwell@yahoo.com
 with any further questions.
 
 Subdirectories:
+
 Coefficient_Outputs : Stores results from Logistic Regression on different test/train splits
+
 Data : Stores the scaled and anonymized data and a mini version thereof for sharing
+
 Plots : Stores the output plots of the notebooks
+
 Presentation Materials : Stores a diagram used in the non-technical presentation
+
 Test_Time_Tables : Stores the tables of train times and accuracies for each model on different test/train splits
+
 Trees : Stores the images of decision trees from different test/train splits
